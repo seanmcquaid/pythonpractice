@@ -1,0 +1,6 @@
+    1  which zsh
+    2  clear
+    3  cd ~/development/11:18\ -\ Immersive/
+    4  pwd
+    5  cd unit1
+    6  git init
