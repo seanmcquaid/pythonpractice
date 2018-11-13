@@ -79,3 +79,30 @@ num = 1;
 # num++
 num += 1;
 
+# Input
+# python 2 = raw_input
+
+name = raw_input("What is your name? >");
+print type(name);
+
+# # conditionals
+# a single = sign means set the left to whatever is on the right
+# two = signs, means COMPARE what's on the left to whatever is on the right
+print 2 == 2;
+print 2 == 1;
+
+secret_number = 5;
+if (secret_number == 3):
+    print "Secret number is three";
+else:
+    print "Secret number is not three";
+
+game_on = True;
+i = 0;
+while (game_on):
+    i += 1
+    if (i == 10):
+        game_on = False;
+    else:
+        print "Game on!!";
+
