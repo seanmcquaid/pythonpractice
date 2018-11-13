@@ -28,3 +28,22 @@ print theBestClass
 # objects - super dictionaries
 
 # Primitive Date Types = string, number, Boolean
+
+month = "November";
+print type(month);
+
+date = 13;
+print type(date);
+
+dateAsFloat = 13.0;
+print type(dateAsFloat);
+
+aBool = True;
+print type(aBool);
+
+aList = [];
+print type(aList);
+
+aDictionary = {};
+print type(aDictionary);
+
